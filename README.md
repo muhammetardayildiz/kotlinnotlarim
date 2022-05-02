@@ -5,7 +5,9 @@ Kotlin Öğrenmeye çalışırken Googlelayıp araştırıp öğrendiğim ve ile
 
 ## Açıklama 
 
-Yazılım stilim yarın bir gün geri dönük bakıp anlamaya yönelik o yüzden stile çok takılmayın lütfen :)
+1- Yazılım stilim yarın bir gün geri dönük bakıp anlamaya yönelik o yüzden stile çok takılmayın lütfen :)
+
+2- Eğer aklınızda takılan bir konu, burada listelenmek istenen bir bir kod örneği, yazılarda düzeltme yapmak istediğiniz bir şey var ise Issue açarsanız sevinirim 
 
 # Dizin 
 
