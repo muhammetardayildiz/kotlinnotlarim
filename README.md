@@ -9,4 +9,4 @@ Yazılım stilim yarın bir gün geri dönük bakıp anlamaya yönelik o yüzden
 
 # Dizin 
 
-[Ekran Görünütüsü almayı Engelleme](https://github.com/muhammetardayildiz/kotlinnotlarim/blob/main/EkranGoruntusuEngelleme.md)
+[Ekran Görünütüsü almayı Engelleme](https://github.com/muhammetardayildiz/kotlinnotlarim/blob/main/dir/EkranGoruntusuEngelleme.md)
